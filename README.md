@@ -40,7 +40,7 @@ Running the Projects
 
 Acknowledgments
 
-Prof. A. Lykas for providing the project requirements and guidance.
+Thanks to  Prof. A. Lykas for providing the project requirements and guidance.
 
 Team Members
 
